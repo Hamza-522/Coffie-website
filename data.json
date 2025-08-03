@@ -1,0 +1,96 @@
+var products = [
+    {
+        "img":"Images/p1.png",
+        "name":"Americano Pure",
+        "price":"8.54$",
+        "card":"Add To Card",
+    },
+    {
+        "img":"Images/p2.png",
+        "name":"Fresh Roast",
+        "price":"60$",
+        "card":"Add To Card",
+    },
+    {
+        "img":"Images/p3.png",
+        "name":"Patch Roast",
+        "price":"28$",
+        "card":"Add To Card",
+    },
+    {
+        "img":"Images/p4.png",
+        "name":"Americano Pure",
+        "price":"25$",
+        "card":"Add To Card",
+    },
+    {
+        "img":"Images/p5.png",
+        "name":"Fresh Roast",
+        "price":"15$",
+        "card":"Add To Card",
+    },
+    {
+        "img":"Images/p6.png",
+        "name":"Patch Roast",
+        "price":"67$",
+        "card":"Add To Card",
+    },
+    {
+        "img":"Images/p7.png",
+        "name":"Patch Cups",
+        "price":"34$",
+        "card":"Add To Card",
+    },
+    {
+        "img":"Images/p8.png",
+        "name":"Coffee Glander",
+        "price":"34$",
+        "card":"Add To Card",
+    },
+    {
+        "img":"Images/p9.png",
+        "name":"Coffee Bowler",
+        "price":"75$",
+        "card":"Add To Card",
+    }
+];
+
+var coffe = [
+    {
+        "img":"Images/c1.png",
+        "name":"Latte",
+        "price":"8.54$",
+        "card":"Add To Card",
+    },
+    {
+        "img":"Images/c2.png",
+        "name":"Latte",
+        "price":"60$",
+        "card":"Add To Card",
+    },
+    {
+        "img":"Images/c3.png",
+        "name":"Americano",
+        "price":"28$",
+        "card":"Add To Card",
+    },
+    {
+        "img":"Images/c4.png",
+        "name":"Espresso.",
+        "price":"25$",
+        "card":"Add To Card",
+    },
+    {
+        "img":"Images/c5.png",
+        "name":"Mocha",
+        "price":"15$",
+        "card":"Add To Card",
+    },
+    {
+        "img":"Images/c5.png",
+        "name":"Decaf",
+        "price":"15$",
+        "card":"Add To Card",
+    }
+   
+];
